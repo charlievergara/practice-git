@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Carlos vergara> -- <Developer> -- <carlos@demo.com>
+    <Juan Lotero> -- <Developer> -- <carlos@demo.com>
+    <Marlene Perez> -- <Developer> -- <carlos@demo.com>
 
 # THANKS
 
-    <name>
+    Globant S.A.S
 
 # TECHNOLOGY COLOPHON
 
